@@ -1,4 +1,4 @@
-## Useful modules in Python
+# Useful modules in Python
 
 * Numpy
 * Matplotlib
