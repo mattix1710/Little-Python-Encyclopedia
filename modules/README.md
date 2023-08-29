@@ -5,3 +5,4 @@
 * ImageIO
 * Pandas
 * Statistics
+* PyQT
